@@ -1,0 +1,8 @@
+[project]
+name = "ThisKey"
+version = "1.0"
+description = "ThisKey — модуль для работы с клавишами: проверка допустимых букв и цифр с использованием кастомных исключений"
+readme = "README.md"
+authors = {github_name = "python-soul"}
+license = {text = "Copyright © 2025, python-soul. Все права защищены."}
+keywords = ["python", "key", "keyboard"]
